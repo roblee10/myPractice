@@ -198,3 +198,4 @@ public class MainActivity extends AppCompatActivity {
         nfcAdapter.disableForegroundDispatch(this);
     }
 }
+/**abcde*/
